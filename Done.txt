@@ -3,3 +3,4 @@ Name: Selamo Allen Leinyuy
 
 Issues
 Please sir i can't find the code for the __init__.py in the block
+Still trying to understand the code step by step but no issues for now sir
